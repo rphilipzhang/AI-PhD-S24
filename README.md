@@ -16,7 +16,7 @@ Welcome to the mono-repo of the PhD course AI for Business Research (DSME 6635) 
 
 The course will be carried out in person in Cheng Yu Tung Building (CYT) 928A. Please ask for my approval if you need to join us via the following Zoom links:
 
-- [Zoom link](https://cuhk.zoom.us/j/99642393764?pwd=KzdHajlNb1FXM05kaFA5NEs5UlNzdz09){:target="_blank"}, Meeting ID 996 4239 3764, Passcode 386119. 
+- [Zoom link](https://cuhk.zoom.us/j/99642393764?pwd=KzdHajlNb1FXM05kaFA5NEs5UlNzdz09), Meeting ID 996 4239 3764, Passcode 386119. 
 
 Most of the code in this course will be distributed through the [Google CoLab](https://colab.research.google.com/) cloud computing environment to avoid the incompatibility and version control issues on your local individual computer. On the other hand, you can always download the Jupyter Notebook from CoLab and run it your own computer.
 
