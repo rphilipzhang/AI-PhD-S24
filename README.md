@@ -23,4 +23,8 @@ Most of the code in this course will be distributed through the [Google CoLab](h
 
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
 
+## Course Schedule
 
+The following schedule is tentative and subject to changes.
+
+### Week 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
