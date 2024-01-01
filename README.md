@@ -1,4 +1,4 @@
-# AI for Business Research (DSME 6635)
+# Artificial Intelligence for Business Research (Spring 2024)
 
 ## Teaching Team
 
