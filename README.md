@@ -2,7 +2,7 @@
 
 ## Teaching Team
 
-* *Instructor*: [Renyu (Philip) Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html), Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk, @911 Cheng Yu Tung Building.
+* *Instructor*: [Renyu (Philip) Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html){:target="_blank"}, Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk, @911 Cheng Yu Tung Building.
 * *Teaching Assistant*: Leo Cao, Full-time TA, Department of Decisions, Operations and Technology, CUHK Business School, yinglyucao@cuhk.edu.hk. Please be noted that Leo will help with any issues related to the logistics, but not the content, of this course.
 
 Welcome to the mono repo of the PhD course AI for Business Research (DSME 6635) at CUHK Business School in Spring 2024.
@@ -21,7 +21,6 @@ The course will be carried out in person in Cheng Yu Tung Building (CYT) 928A. P
 Most of the code in this course will be distributed through the [Google CoLab](https://colab.research.google.com/) cloud computing environment to avoid the incompatibility and version control issues on your local individual computer. On the other hand, you can always download the Jupyter Notebook from CoLab and run it your own computer.
 
 - The **CoLab** files of this course can be found at [this folder](https://drive.google.com/drive/folders/1Tn2I26ZUJ4qPosPOJOD3Yoy8o3lr8Q_G?usp=sharing).
-).
 - The **Google Sheet** to sign up for groups and group tasks can be found [here](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing).
 
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
