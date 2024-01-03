@@ -24,7 +24,16 @@ Most of the code in this course will be distributed through the [Google CoLab](h
 
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
 
-## Course Schedule
+## Brief Schedule
+|Session|Date |Topic|Key Words|
+|:-------:|:-------------:|:----:|:-:|
+|1|01.09|AI/ML in a Nutshell|Course Intro, ML Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods|
+
+
+## Useful Resources
+
+
+## Detailed Schedule
 
 The following schedule is tentative and subject to changes.
 
