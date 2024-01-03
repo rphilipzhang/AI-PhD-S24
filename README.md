@@ -27,11 +27,13 @@ If you have any feedback on this course, please directly contact Philip at phili
 ## Brief Schedule
 |Session|Date |Topic|Key Words|
 |:-------:|:-------------:|:----:|:-:|
-|1|01.09|AI/ML in a Nutshell|Course Intro, ML Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods|
-|2|01.16|Intro to DL|Homework Recap, DL Intro, Neural Nets, SGD, Back Propagation, Regularization, Computational Issues in DL|
-|3|01.23|Prediction and Traditional NLP|Homework Recap, Prediction in Biz Research, Processing, Word Representations| 
-|4|01.30|NLP (II): Word2Vec|Homework Recap, $N$-gram, Na\"ive Bayes, NLP Performance Evaluation, Word2Vec, GloVe|
-
+|1|1.09|AI/ML in a Nutshell|Course Intro, ML Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods|
+|2|1.16|Intro to DL|Homework Recap, DL Intro, Neural Nets, SGD, Back Propagation, Regularization, Computational Issues in DL|
+|3|1.23|Prediction and Traditional NLP|Homework Recap, Prediction in Biz Research, Processing, Word Representations| 
+|4|1.30|NLP (II): Word2Vec|Homework Recap, $N$-gram, Naive Bayes, NLP Performance Evaluation, Word2Vec, GloVe|
+|5|2.06|NLP (III): Seq2Seq and Attention|Homework Recap, RNN, Seq2Seq, (Self-)Attention|
+|6|2.20|NLP (IV): Transformer|Homework Recap, Tranformer, BERT, GPT, pre-training, fine-tuning|
+|7|2.27|NLP (V): LLM and Generative AI|Prompting, IFT, RLHF, In-Context Learning, Chain-of-Thought, Emergence, Scaling with Data and Computation| 
 
 
 ## Useful Resources
