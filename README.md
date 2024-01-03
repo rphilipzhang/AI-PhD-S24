@@ -27,9 +27,9 @@ If you have any feedback on this course, please directly contact Philip at phili
 ## Brief Schedule
 |Session|Date |Topic|Key Words|
 |:-------:|:-------------:|:----:|:-:|
-|1|1.09|AI/ML in a Nutshell|Course Intro, ML Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods|
-|2|1.16|Intro to DL|Homework Recap, DL Intro, Neural Nets, SGD, Back Propagation, Regularization, Computational Issues in DL|
-|3|1.23|Prediction and Traditional NLP|Homework Recap, Prediction in Biz Research, Processing, Word Representations| 
+|1|1.09|AI/ML in a Nutshell|Course Intro, ML Models, Model Evaluations|
+|2|1.16|Intro to DL|DL Intro, Neural Nets, Computational Issues in DL|
+|3|1.23|Prediction and Traditional NLP|Prediction in Biz Research, Pre-processing, Word Representations| 
 |4|1.30|NLP (II): Word2Vec|Homework Recap, $N$-gram, Naive Bayes, NLP Performance Evaluation, Word2Vec, GloVe|
 |5|2.06|NLP (III): Seq2Seq and Attention|Homework Recap, RNN, Seq2Seq, (Self-)Attention|
 |6|2.20|NLP (IV): Transformer|Homework Recap, Tranformer, BERT, GPT, pre-training, fine-tuning|
@@ -49,4 +49,22 @@ If you have any feedback on this course, please directly contact Philip at phili
 The following schedule is tentative and subject to changes.
 
 ### Week 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
-- Keywords: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods 
+- Keywords: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
+
+
+|Session|Date |Topic|Key Words|
+|:-------:|:-------------:|:----:|:-:|
+|1|1.09|AI/ML in a Nutshell|Course Intro, ML Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods|
+|2|1.16|Intro to DL|Homework Recap, DL Intro, Neural Nets, SGD, Back Propagation, Regularization, Computational Issues in DL|
+|3|1.23|Prediction and Traditional NLP|Homework Recap, Prediction in Biz Research, Processing, Word Representations| 
+|4|1.30|NLP (II): Word2Vec|Homework Recap, $N$-gram, Naive Bayes, NLP Performance Evaluation, Word2Vec, GloVe|
+|5|2.06|NLP (III): Seq2Seq and Attention|Homework Recap, RNN, Seq2Seq, (Self-)Attention|
+|6|2.20|NLP (IV): Transformer|Homework Recap, Tranformer, BERT, GPT, pre-training, fine-tuning|
+|7|2.27|NLP (V): LLM and Generative AI|Homework Recap, Prompting, IFT, RLHF, In-Context Learning, Chain-of-Thought, Emergence, Scaling with Data and Computation, Generative AI in Biz Research| 
+|7.5|3.05|Final Project Proposal|No Class|
+|8|3.12|Image Processing and CV (I)|Homework Recap, (Traditional) Image Classification, CNN, LeNet, AlexNet, ResNet|
+|9|3.19|CV (II)|Homework Recap, Data Augmentation, ViT, Video Understanding, Objective Detection, Image Segmentation|
+|10|3.26|Unsupervised Learning (I)|Homework Recap, Clustering, EM, DLA, Topic Modeling|
+|11|4.02|Unsupervised Learning (II)|Homework Recap, Image Generation, VAE, Stable Diffusion, Multimodality|
+|12|4.09|Algorithm and Fairness|Homework Recap, Algorithmic Fairness/Bias in CS and Econ, Testing Discrimination in Practice, Designing Algorithms with Discrimination Constraints, Anti-Discrimination Law and Algorithm|
+|13|4.16|Final Project Presentation|Show, not tell!| 
