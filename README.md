@@ -76,16 +76,11 @@ The following schedule is tentative and subject to changes.
 - **Homework**: *To be updated.*
 - **Scribed Lecture Notes**: *To be updated.*
 - **References**:
-    - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, \url{https://hastie.su.domains/ElemStatLearn/}.
-	\item {\it } 
-		\item \textit{Probabilistic Machine Learning: An Introduction}, 2022, by Kevin Murphy, \url{https://probml.github.io/pml-book/book1.html}.
-		\item Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied
-econometric approach. \textit{Journal of Economic Perspectives} 31(2): 87-106.
-   \item Athey, Susan, and Guido W. Imbens. 2019. \textit{Machine learning methods that economists
-should know about}. \textit{Annual Review of Economics} 11: 685-725.
-\item Hofman, Jake M., et al. 2021. Integrating explanation and prediction in computational social science. \textit{Nature} 595.7866: 181-188.
-
-\item Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. \textit{Innovative Technology at the Interface of Finance and Operations}. Springer: 189-222.
-
-\item Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, \textit{SSRN}, \url{https://ssrn.com/abstract=4501707}.   
+    - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, https://hastie.su.domains/ElemStatLearn/.
+    - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy, https://probml.github.io/pml-book/book1.html.
+    - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106.
+    - Athey, Susan, and Guido W. Imbens. 2019. Machine learning methods that economists should know about. *Annual Review of Economics* 11: 685-725.
+    - Hofman, Jake M., et al. 2021. Integrating explanation and prediction in computational social science. *Nature* 595.7866: 181-188.
+    - Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. *Innovative Technology at the Interface of Finance and Operations*. Springer: 189-222.
+    - Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, *SSRN*, https://ssrn.com/abstract=4501707.   
 
