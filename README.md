@@ -28,6 +28,8 @@ If you have any feedback on this course, please directly contact Philip at phili
 |Session|Date |Topic|Key Words|
 |:-------:|:-------------:|:----:|:-:|
 |1|01.09|AI/ML in a Nutshell|Course Intro, ML Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods|
+|2|01.16|Intro to DL|Homework Recap, DL Intro, Neural Nets, SGD, Back Propagation, Regularization, Computational Issues in DL|
+
 
 
 ## Useful Resources
