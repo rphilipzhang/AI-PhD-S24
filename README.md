@@ -51,7 +51,7 @@ All problem sets are due at 12:30pm right before class.
 |Date| Time|Event|Note|
 |:--:|:-:|:---:|:--:|
 |1.10| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing)|Each group has at most two students.|
-|1.12| 7:00pm-9:00pm|Python Tutorial|Given by Qiansiqi Hu|
+|1.12| 7:00pm-9:00pm|Python Tutorial|Given by Qiansiqi Hu, [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui)|
 |1.19| 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Qiansiqi Hu|
 |3.05|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
 |3.12| 12:30pm|Final Project Proposal|1-page maximum|
@@ -75,6 +75,7 @@ The following schedule is tentative and subject to changes.
 - **Jupyter Notebooks**: *To be updated.*
 - **Homework**: *To be updated.*
 - **Scribed Lecture Notes**: *To be updated.*
+- **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui#scrollTo=635401d7), 7:00pm-9:00pm, Jan/12/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
 - **References**:
     - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, https://hastie.su.domains/ElemStatLearn/.
     - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy, https://probml.github.io/pml-book/book1.html.
