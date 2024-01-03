@@ -55,6 +55,7 @@ All problem sets are due at 12:30pm right before class.
 |1.19, 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Qiansiqi Hu|
 |Week of 3.5|Final Project Discussion|Please schedule a meeting with Philip.|
 |3.12, 12:30pm|Final Project Proposal|1-page maximum|
+|4.16, 12:30pm-3:15pm|Final Project Presentation|Show, not tell!| 
 
 
 ## Useful Resources
