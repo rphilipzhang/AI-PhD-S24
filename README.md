@@ -43,6 +43,15 @@ Subject to modifications.
 |12|4.09|Algorithm and Fairness|Algorithmic Fairness/Bias in CS and Econ, Testing Discrimination|
 |13|4.16|Final Project Presentation|Show, not tell!| 
 
+## Important Dates
+
+All problem sets are due at 12:30pm right before class.
+
+|Date|Event|Note|
+|:--:|:---:|:--:|
+||||
+
+
 ## Useful Resources
 Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/AI-PhD-Syllabus-S2024.pdf).
 
@@ -54,7 +63,7 @@ Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main
 
 The following schedule is tentative and subject to changes.
 
-### Week 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
+### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
 - **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf)
 - **Jupyter Notebooks**: *To be updated.*
