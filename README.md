@@ -53,7 +53,8 @@ All problem sets are due at 12:30pm right before class.
 |1.10, 11:59pm|[Group Submission, Presentation and Scribing Sign-up](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing)|Each group has at most two students.|
 |1.12, 7:00pm-9:00pm|Python Tutorial|Given by Qiansiqi Hu|
 |1.19, 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Qiansiqi Hu|
-|3.11, 11:59pm|Final Project Proposal|You should also discuss your proposal with Philip.|
+|Week of 3.5|Final Project Discussion|Please schedule a meeting with Philip.|
+|3.12, 12:30pm|Final Project Proposal|1-page maximum|
 
 
 ## Useful Resources
