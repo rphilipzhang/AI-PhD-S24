@@ -50,7 +50,7 @@ All problem sets are due at 12:30pm right before class.
 
 |Date| Time|Event|Note|
 |:--:|:-:|:---:|:--:|
-|1.10| 11:59pm|[Sign-Ups](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing)|Each group has at most two students.|
+|1.10| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing)|Each group has at most two students.|
 |1.12| 7:00pm-9:00pm|Python Tutorial|Given by Qiansiqi Hu|
 |1.19| 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Qiansiqi Hu|
 |3.05|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
@@ -75,5 +75,17 @@ The following schedule is tentative and subject to changes.
 - **Jupyter Notebooks**: *To be updated.*
 - **Homework**: *To be updated.*
 - **Scribed Lecture Notes**: *To be updated.*
+- **References**:
+    - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, \url{https://hastie.su.domains/ElemStatLearn/}.
+	\item {\it } 
+		\item \textit{Probabilistic Machine Learning: An Introduction}, 2022, by Kevin Murphy, \url{https://probml.github.io/pml-book/book1.html}.
+		\item Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied
+econometric approach. \textit{Journal of Economic Perspectives} 31(2): 87-106.
+   \item Athey, Susan, and Guido W. Imbens. 2019. \textit{Machine learning methods that economists
+should know about}. \textit{Annual Review of Economics} 11: 685-725.
+\item Hofman, Jake M., et al. 2021. Integrating explanation and prediction in computational social science. \textit{Nature} 595.7866: 181-188.
 
+\item Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. \textit{Innovative Technology at the Interface of Finance and Operations}. Springer: 189-222.
+
+\item Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, \textit{SSRN}, \url{https://ssrn.com/abstract=4501707}.   
 
