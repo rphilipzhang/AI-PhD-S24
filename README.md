@@ -55,6 +55,10 @@ Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main
 The following schedule is tentative and subject to changes.
 
 ### Week 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
-- Keywords: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
+- **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
+- **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf)
+- **Jupyter Notebooks**: *To be updated.*
+- **Homework**: *To be updated.*
+- **Scribed Lecture Notes**: *To be updated.*
 
 
