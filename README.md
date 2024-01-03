@@ -30,7 +30,7 @@ If you have any feedback on this course, please directly contact Philip at phili
 |1|01.09|AI/ML in a Nutshell|Course Intro, ML Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods|
 |2|01.16|Intro to DL|Homework Recap, DL Intro, Neural Nets, SGD, Back Propagation, Regularization, Computational Issues in DL|
 |3|01.23|Prediction and Traditional NLP|Homework Recap, Prediction in Biz Research, Processing, Word Representations| 
-|4|01.30|NLP (II): Word2Vec|Homework Recap, $N$-gram, Na$\"{i}$ve Bayes, NLP Performance Evaluation, Word2Vec, GloVe|
+|4|01.30|NLP (II): Word2Vec|Homework Recap, $N$-gram, Na\"ive Bayes, NLP Performance Evaluation, Word2Vec, GloVe|
 
 
 
