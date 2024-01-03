@@ -29,3 +29,4 @@ If you have any feedback on this course, please directly contact Philip at phili
 The following schedule is tentative and subject to changes.
 
 ### Week 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
+- Keywords: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-
