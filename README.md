@@ -73,7 +73,7 @@ The following schedule is tentative and subject to changes.
 - **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf)
 - **Jupyter Notebook Demos**: [k-Nearest Neighbors](https://colab.research.google.com/drive/1-PuAN4SXddJE81hccE76MW4GN3vdtjEF), [Decision Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0), [Random Forest](https://colab.research.google.com/drive/1yYXD2Lb2iwSL5bKFMN8ii01OqwB8SaMh), [Extreme Gradient Boosting Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0)
-- **Homework**: [Problem Set 1: Bias-Variance Trade-Off]
+- **Homework**: [Problem Set 1: Bias-Variance Trade-Off](https://colab.research.google.com/drive/1BviUCmJPMeXsdRZ3O0gGtgS3JV12U_3d)
 - **Scribed Lecture Notes**: *To be updated.*
 - **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui#scrollTo=635401d7), 7:00pm-9:00pm, Jan/12/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
 - **References**:
