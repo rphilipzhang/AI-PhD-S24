@@ -8,7 +8,7 @@
 
 ## Course Website
 
-- **https://github.com/rphilipzhang/AI-PhD-S24**
+- https://github.com/rphilipzhang/AI-PhD-S24
 
 ## About
 Welcome to the mono-repo of the PhD course AI for Business Research (DSME 6635) at CUHK Business School in Spring 2024. You may download the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/AI-PhD-Syllabus-S2024.pdf) of this course first. The purpose of this course is to learn the following:
