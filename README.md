@@ -76,7 +76,7 @@ The following schedule is tentative and subject to changes.
 ### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
 - **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf)
-- **Jupyter Notebook Demos**: [k-Nearest Neighbors](https://colab.research.google.com/drive/1-PuAN4SXddJE81hccE76MW4GN3vdtjEF), [Decision Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0), [Random Forest](https://colab.research.google.com/drive/1yYXD2Lb2iwSL5bKFMN8ii01OqwB8SaMh), [Extreme Gradient Boosting Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0)
+- **Jupyter Notebook Demos**: [k-Nearest Neighbors](https://colab.research.google.com/drive/1-PuAN4SXddJE81hccE76MW4GN3vdtjEF), [Decision Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0)
 - **Homework**: [Problem Set 1: Bias-Variance Trade-Off](https://colab.research.google.com/drive/1BviUCmJPMeXsdRZ3O0gGtgS3JV12U_3d)
 - **Scribed Lecture Notes**: *To be updated.*
 - **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui#scrollTo=635401d7), 7:00pm-9:00pm, Jan/12/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
@@ -89,4 +89,19 @@ The following schedule is tentative and subject to changes.
     - Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. *Innovative Technology at the Interface of Finance and Operations*. Springer: 189-222.
     - Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, *SSRN*, https://ssrn.com/abstract=4501707.   
 
-### Session 2. 
+### Session 2. Introduction to Deep Learning (Jan/16/2024)
+- **Keywords**: Random Forests, eXtreme Gradient Boosting Trees, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
+- **Slides**: [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-3-Intro2DL.pdf)
+- **Jupyter Notebook Demos**: [Random Forest](https://colab.research.google.com/drive/1yYXD2Lb2iwSL5bKFMN8ii01OqwB8SaMh), [Extreme Gradient Boosting Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0), [Chain Rule](https://colab.research.google.com/drive/1NahSzdbkV4D8GWa-avmZdm8kDHkaNndY), [Gradient Descent](https://colab.research.google.com/drive/1Ees_u-BRcGB0JBfx9N7vOhltOu9coA8Z), [He Initialization](https://colab.research.google.com/drive/1HqxqOywHDsAuzRYiRtkWh3qESDIYoqIZ), [Dropout](https://colab.research.google.com/drive/1DWGfmCTlgXtV6sm0OgvBWc5Lsd2AuoQ6), [Micrograd](https://colab.research.google.com/drive/1DO33XgHoJhs22yO53MptjN33RBU9G1tu)
+- **Presentation**: Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing with machine learning. *Review of Financial Studies* 33: 2223-2273. [Link to the paper](https://academic.oup.com/rfs/article/33/5/2223/5758276).
+- **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1Xse83Jpo4Omy7nIU-7OwExRyxYNhL9gM#scrollTo=PUTtgESCYPVN)
+- **Scribed Lecture Notes**: *To be updated.*
+- **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1Yg5q5v2CKNwPuaNAieg7ENDdA8Tn3wux), 7:00pm-9:00pm, Jan/19/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
+- **References**:
+    - *Deep Learning*, 2016, by Ian Goodfellow, Yoshua Bengio and Aaron Courville, https://www.deeplearningbook.org/.
+    - *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
+    - *Probabilistic Machine Learning: Advanced Topics*, 2023, by Kevin Murphy, https://probml.github.io/pml-book/book2.html.
+    - *Deep Learning with PyTorch*, 2020, by Eli Stevens, Luca Antiga, and Thomas Viehmann.
+    - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing with machine learning. *Review of Financial Studies* 33: 2223-2273.
+    - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
+    - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
