@@ -43,7 +43,7 @@ Subject to modifications.
 |7.5|3.05|Final Project Proposal|No Class, Group Meeting with Philip|
 |8|3.12|Image Processing and CV (I)|CNN, AlexNet, ResNet|
 |9|3.19|CV (II)|Data Augmentation, ViT, Video Understanding|
-|10|3.26|Unsupervised Learning (I)|EM, DLA, Topic Modeling|
+|10|3.26|Unsupervised Learning (I)|EM, LDA, Topic Modeling|
 |11|4.02|Unsupervised Learning (II)|VAE, Stable Diffusion, Multimodality|
 |12|4.09|Algorithm and Fairness|Algorithmic Fairness/Bias in CS and Econ, Testing Discrimination|
 |13|4.16|Final Project Presentation|Show, not tell!| 
