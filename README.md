@@ -43,7 +43,7 @@ Subject to modifications.
 |7.5|3.05|Final Project Proposal|No Class, Group Meeting with Philip|
 |8|3.12|Image Processing and CV (I)|CNN, AlexNet, ResNet|
 |9|3.19|CV (II)|Data Augmentation, ViT, Video Understanding|
-|10|3.26|Unsupervised Learning (I)|EM, DLA, Topic Modeling|
+|10|3.26|Unsupervised Learning (I)|EM, LDA, Topic Modeling|
 |11|4.02|Unsupervised Learning (II)|VAE, Stable Diffusion, Multimodality|
 |12|4.09|Algorithm and Fairness|Algorithmic Fairness/Bias in CS and Econ, Testing Discrimination|
 |13|4.16|Final Project Presentation|Show, not tell!| 
@@ -94,7 +94,7 @@ The following schedule is tentative and subject to changes.
 - **Slides**: [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-3-Intro2DL.pdf)
 - **CoLab Notebook Demos**: [Random Forest](https://colab.research.google.com/drive/1yYXD2Lb2iwSL5bKFMN8ii01OqwB8SaMh), [Extreme Gradient Boosting Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0), [Chain Rule](https://colab.research.google.com/drive/1NahSzdbkV4D8GWa-avmZdm8kDHkaNndY), [Gradient Descent](https://colab.research.google.com/drive/1Ees_u-BRcGB0JBfx9N7vOhltOu9coA8Z), [He Initialization](https://colab.research.google.com/drive/1HqxqOywHDsAuzRYiRtkWh3qESDIYoqIZ), [Dropout](https://colab.research.google.com/drive/1DWGfmCTlgXtV6sm0OgvBWc5Lsd2AuoQ6), [Micrograd](https://colab.research.google.com/drive/1DO33XgHoJhs22yO53MptjN33RBU9G1tu)
 - **Presentation**: By Xinyu Li and Qingyu Xu.
-    - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing with machine learning. *Review of Financial Studies* 33: 2223-2273. [Link to the paper](https://academic.oup.com/rfs/article/33/5/2223/5758276).
+    - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing via machine learning. *Review of Financial Studies* 33: 2223-2273. [Link to the paper](https://academic.oup.com/rfs/article/33/5/2223/5758276).
 - **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1Xse83Jpo4Omy7nIU-7OwExRyxYNhL9gM#scrollTo=PUTtgESCYPVN)
 - **Scribed Lecture Notes**: *To be updated.*
 - **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1Yg5q5v2CKNwPuaNAieg7ENDdA8Tn3wux), 7:00pm-9:00pm, Jan/19/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
