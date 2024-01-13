@@ -32,7 +32,7 @@ Most of the code in this course will be distributed through the [Google CoLab](h
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
 
 ## Brief Schedule
-Subject to modifications.
+Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
 |Session|Date |Topic|Key Words|
 |:-------:|:-------------:|:----:|:-:|
 |1|1.09|AI/ML in a Nutshell|Course Intro, ML Models, Model Evaluations|
