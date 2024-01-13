@@ -17,7 +17,7 @@ Welcome to the mono-repo of the PhD course AI for Business Research (DSME 6635) 
 - Understand how business researchers have utilized ML/AI and what managerial questions have been addressed by ML/AI in the recent decade.
 - Nurture a taste of what the state-of-the-art AI/ML technologies can do in the ML/AI community and, potentially, in your own research field.
 
-The course will be carried out in person in Cheng Yu Tung Building (CYT) **LT5** (please pay attention to this room change). Please ask for my approval if you need to join us via the following Zoom links:
+We will meet each Tuesday at 12:30pm in Cheng Yu Tung Building (CYT) **LT5** (please pay attention to this room change). Please ask for my approval if you need to join us via the following Zoom links:
 
 - [Zoom link](https://cuhk.zoom.us/j/99642393764?pwd=KzdHajlNb1FXM05kaFA5NEs5UlNzdz09), Meeting ID 996 4239 3764, Passcode 386119. 
 
