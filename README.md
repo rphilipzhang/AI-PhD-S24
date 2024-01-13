@@ -6,9 +6,11 @@
 * *Teaching Assistant*: Leo Cao, Full-time TA, Department of Decisions, Operations and Technology, CUHK Business School, yinglyucao@cuhk.edu.hk. Please be noted that Leo will help with any issues related to the logistics, but not the content, of this course.
 * *Tutorial Instructor*: Qiansiqi Hu, MSBA Student, Department of Decisions, Operations and Technology, CUHK Business School, 1155208353@link.cuhk.edu.hk. BS in ECE, Shanghai Jiaotong University Michigan Institute.
 
-## Course Website
+## Basic Information
 
-- https://github.com/rphilipzhang/AI-PhD-S24
+- Website: https://github.com/rphilipzhang/AI-PhD-S24
+- Time: Tuesday, 12:30pm-3:15pm, from Jan 9, 2024 to Apr 16, 2024, except for Feb 13 (Chinese New Year) and Mar 5 (Final Project Discussion)
+- Location: Cheng Yu Tung Building (CYT) **LT5**
 
 ## About
 Welcome to the mono-repo of the PhD course AI for Business Research (DSME 6635) at CUHK Business School in Spring 2024. You may download the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/AI-PhD-Syllabus-S2024.pdf) of this course first. The purpose of this course is to learn the following:
