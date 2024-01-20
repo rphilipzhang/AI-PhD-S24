@@ -94,7 +94,7 @@ The following schedule is tentative and subject to changes.
 ### Session 2. Introduction to Deep Learning (Jan/16/2024)
 - **Keywords**: Random Forests, eXtreme Gradient Boosting Trees, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
 - **Slides**: [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-3-Intro2DL.pdf)
-- **CoLab Notebook Demos**: [Random Forest](https://colab.research.google.com/drive/1yYXD2Lb2iwSL5bKFMN8ii01OqwB8SaMh), [Extreme Gradient Boosting Tree](https://colab.research.google.com/drive/1ykAoVuGosNmQDR7-gDtjavfKTaokN2ax), [Gradient Descent](https://colab.research.google.com/drive/1Ees_u-BRcGB0JBfx9N7vOhltOu9coA8Z), [He Initialization](https://colab.research.google.com/drive/1HqxqOywHDsAuzRYiRtkWh3qESDIYoqIZ), [Dropout](https://colab.research.google.com/drive/1DWGfmCTlgXtV6sm0OgvBWc5Lsd2AuoQ6), [Micrograd](https://colab.research.google.com/drive/1DO33XgHoJhs22yO53MptjN33RBU9G1tu)
+- **CoLab Notebook Demos**: [Random Forest](https://colab.research.google.com/drive/1yYXD2Lb2iwSL5bKFMN8ii01OqwB8SaMh), [Extreme Gradient Boosting Tree](https://colab.research.google.com/drive/1ykAoVuGosNmQDR7-gDtjavfKTaokN2ax), [Gradient Descent](https://colab.research.google.com/drive/1Ees_u-BRcGB0JBfx9N7vOhltOu9coA8Z), [Chain Rule](https://colab.research.google.com/drive/1NahSzdbkV4D8GWa-avmZdm8kDHkaNndY)
 - **Presentation**: By Xinyu Li and Qingyu Xu.
     - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing via machine learning. *Review of Financial Studies* 33: 2223-2273. [Link to the paper](https://academic.oup.com/rfs/article/33/5/2223/5758276).
 - **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1Xse83Jpo4Omy7nIU-7OwExRyxYNhL9gM#scrollTo=PUTtgESCYPVN)
@@ -108,3 +108,26 @@ The following schedule is tentative and subject to changes.
     - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing with machine learning. *Review of Financial Studies* 33: 2223-2273.
     - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
     - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
+
+
+### Session 3. DL Basics, Predictions in Business Research, and Traditonal NLP (Jan/23/2024)
+- **Keywords**: Optimization and Computational Issues of Deep Learning, Prediction Problems in Business Research, Pre-processing and Word Representations in Traditional Natural Language Processing
+- **Slides**: [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-3-Intro2DL.pdf), [Prediction Problems in Business Research](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-4-Prediction.pdf), [Pre-processing and Word Representations](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-5-NLP(I).pdf)
+- **CoLab Notebook Demos**: [He Initialization](https://colab.research.google.com/drive/1HqxqOywHDsAuzRYiRtkWh3qESDIYoqIZ), [Dropout](https://colab.research.google.com/drive/1DWGfmCTlgXtV6sm0OgvBWc5Lsd2AuoQ6), [Micrograd](https://colab.research.google.com/drive/1DO33XgHoJhs22yO53MptjN33RBU9G1tu), [Pre-processing](https://colab.research.google.com/drive/1V8AaZfXrZtcx_O_wruBT7Enek3h55dm2#scrollTo=1rJA48ntoYQ7)
+- **Presentation**: By Letian Kong and Liheng Tan.
+    - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106. [Link to the paper](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87).
+- **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1Xse83Jpo4Omy7nIU-7OwExRyxYNhL9gM#scrollTo=PUTtgESCYPVN), due at **12:30pm, Jan/30/2024 (Tuesday)**.
+- **Scribed Lecture Notes**: *To be updated.*
+- **References**:
+    - Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer. 2015. Prediction policy problems. *American Economic Review* 105(5): 491-495.
+    - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106.
+    - Kleinberg, Jon, Himabindu Lakkaraju, Jure Leskovec, Jens Ludwig, and Sendhil Mullainathan. 2018. Human decisions and machine predictions. *Quarterly Journal of Economics* 133(1): 237-293.
+    - Bajari, Patrick, Denis Nekipelov, Stephen P. Ryan, and Miaoyu Yang. 2015. Machine learning methods for demand estimation. *American Economic Review*, 105(5): 481-485.
+    - Farias, Vivek F., and Andrew A. Li. 2019. Learning preferences with side information. *Management Science* 65(7): 3131-3149.
+    - Cui, Ruomeng, Santiago Gallino, Antonio Moreno, and Dennis J. Zhang. 2018. The operational value of social media information. *Production and Operations Management*, 27(10): 1749-1769.
+    - Chapter 2, *Introduction to Information Retrieval*, 2008, Cambridge University Press, by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, https://nlp.stanford.edu/IR-book/information-retrieval-book.html.
+    - Chapter 2, *Speech and Language Processing* (3rd ed. draft), 2023, by Dan Jurafsky and James H. Martin, https://web.stanford.edu/~jurafsky/slp3/.
+    - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150)
+    - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
+    - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
+
