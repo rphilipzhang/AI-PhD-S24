@@ -106,8 +106,6 @@ The following schedule is tentative and subject to changes.
     - *Probabilistic Machine Learning: Advanced Topics*, 2023, by Kevin Murphy, https://probml.github.io/pml-book/book2.html.
     - *Deep Learning with PyTorch*, 2020, by Eli Stevens, Luca Antiga, and Thomas Viehmann.
     - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing with machine learning. *Review of Financial Studies* 33: 2223-2273.
-    - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
-    - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
 
 
 ### Session 3. DL Basics, Predictions in Business Research, and Traditonal NLP (Jan/23/2024)
@@ -125,6 +123,7 @@ The following schedule is tentative and subject to changes.
     - Bajari, Patrick, Denis Nekipelov, Stephen P. Ryan, and Miaoyu Yang. 2015. Machine learning methods for demand estimation. *American Economic Review*, 105(5): 481-485.
     - Farias, Vivek F., and Andrew A. Li. 2019. Learning preferences with side information. *Management Science* 65(7): 3131-3149.
     - Cui, Ruomeng, Santiago Gallino, Antonio Moreno, and Dennis J. Zhang. 2018. The operational value of social media information. *Production and Operations Management*, 27(10): 1749-1769.
+    - Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. Text as data. *Journal of Economic Literature*, 57(3): 535-574.
     - Chapter 2, *Introduction to Information Retrieval*, 2008, Cambridge University Press, by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, https://nlp.stanford.edu/IR-book/information-retrieval-book.html.
     - Chapter 2, *Speech and Language Processing* (3rd ed. draft), 2023, by Dan Jurafsky and James H. Martin, https://web.stanford.edu/~jurafsky/slp3/.
     - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150)
