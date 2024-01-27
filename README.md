@@ -134,7 +134,7 @@ The following schedule is tentative and subject to changes.
 
 ### Session 4. Traditonal NLP (Jan/30/2024)
 - **Keywords**: Pre-processing and Word Representations in NLP, N-Gram, Naïve Bayes, Language Model Evaluation, Traditional NLP Applied to Business/Econ Research
-- **Slides**: [NLP(I): Pre-processing and Word Representations](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-5-NLP(I).pdf), [NLP(II): N-Gram, Naïve Bayes, and Language Model Evaluation]
+- **Slides**: [NLP(I): Pre-processing and Word Representations](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-5-NLP(I).pdf), [NLP(II): N-Gram, Naïve Bayes, and Language Model Evaluation](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-6-NLP(II).pdf)
 - **CoLab Notebook Demos**: [NLP Pre-processing](https://colab.research.google.com/drive/1V8AaZfXrZtcx_O_wruBT7Enek3h55dm2#scrollTo=1rJA48ntoYQ7), [N-Gram](https://colab.research.google.com/drive/1BwbNseuVrq5VdA2wZCww1qH87Cn1KqSm), [Naïve Bayes](https://colab.research.google.com/drive/17pVRfHYWfkTyirkFagwU6IVPpnvwe5J8)
 - **Presentation**: By Zhi Li and Boya Peng.
     - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870. [Link to the paper](https://academic.oup.com/qje/article/133/2/801/4582916).
