@@ -131,3 +131,22 @@ The following schedule is tentative and subject to changes.
     - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
     - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240123.pdf)
 
+
+### Session 4. Traditonal NLP (Jan/30/2024)
+- **Keywords**: Pre-processing and Word Representations in NLP, N-Gram, Naive Bayes, Language Model Evaluation, Traditional NLP Applied to Business/Econ Research
+- **Slides**: [NLP(I): Pre-processing and Word Representations](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-5-NLP(I).pdf), [NLP(II): N-Gram, Naïve Bayes, and Language Model Evaluation]
+- **CoLab Notebook Demos**: [NLP Pre-processing](https://colab.research.google.com/drive/1V8AaZfXrZtcx_O_wruBT7Enek3h55dm2#scrollTo=1rJA48ntoYQ7), [N-Gram](https://colab.research.google.com/drive/1BwbNseuVrq5VdA2wZCww1qH87Cn1KqSm), [Naïve Bayes](https://colab.research.google.com/drive/17pVRfHYWfkTyirkFagwU6IVPpnvwe5J8)
+- **Presentation**: By Zhi Li and Boya Peng.
+    - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870. [Link to the paper](https://academic.oup.com/qje/article/133/2/801/4582916).
+- **Homework**: [Problem Set 3: Implementing Traditional NLP Techniques](https://colab.research.google.com/drive/1LAlULPUGJFEOf361B3MPTq3mqzxg7e24), due at **12:30pm, Feb/6/2024 (Tuesday)**.
+- **Scribed Lecture Notes**: *To be updated.*
+- **References**:
+    - Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. Text as data. *Journal of Economic Literature*, 57(3): 535-574.
+    - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870.
+    - Tetlock, Paul. 2007. Giving content to investor sentiment: The role of media in the stock market. *Journal of Finance*, 62(3): 1139-1168.
+    - Baker, Scott, Nicholas Bloom, and Steven Davis, 2016. Measuring economic policy uncertainty. *Quarterly Journal of Economics*, 131(4): 1593-1636.
+    - Gentzkow, Matthew, and Jesse Shapiro. 2010. What drives media slant? Evidence from US daily newspapers. *Econometrica*, 78(1): 35-71.
+    - Chapters 2, 12, & 13, *Introduction to Information Retrieval*, 2008, Cambridge University Press, by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, https://nlp.stanford.edu/IR-book/information-retrieval-book.html.
+    - Chapter 2, 3 & 4, *Speech and Language Processing* (3rd ed. draft), 2023, by Dan Jurafsky and James H. Martin, https://web.stanford.edu/~jurafsky/slp3/.
+    - [Natural Language Tool Kit (NLTK) Documentation](https://www.nltk.org/)
+
