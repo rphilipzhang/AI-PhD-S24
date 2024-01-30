@@ -149,4 +149,5 @@ The following schedule is tentative and subject to changes.
     - Chapters 2, 12, & 13, *Introduction to Information Retrieval*, 2008, Cambridge University Press, by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, https://nlp.stanford.edu/IR-book/information-retrieval-book.html.
     - Chapter 2, 3 & 4, *Speech and Language Processing* (3rd ed. draft), 2023, by Dan Jurafsky and James H. Martin, https://web.stanford.edu/~jurafsky/slp3/.
     - [Natural Language Tool Kit (NLTK) Documentation](https://www.nltk.org/)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240130.pdf)
 
