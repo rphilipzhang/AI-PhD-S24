@@ -152,7 +152,7 @@ The following schedule is tentative and subject to changes.
 ### Session 5. Deep-Learning-Based NLP: Word2Vec (Feb/06/2024)
 - **Keywords**: Traditional NLP Applied to Business/Econ Research, Word2Vec: Continuous Bag of Words, Skip-Gram, and GloVe, Language Model Evaluation, Word2Vec Applied to Business/Econ Research
 - **Slides**: [NLP(II): N-Gram, Naïve Bayes, and Language Model Evaluation](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-6-NLP(II).pdf), [NLP(III): Word2Vec](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7-NLP(III).pdf)
-- **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: N-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR)
+- **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR)
 - **Presentation**: By Xinyu Xu and Shu Zhang.
     - Timoshenko, Artem, and John R. Hauser. 2019. Identifying customer needs from user-generated content. *Marketing Science*, 38(1): 1-20. [Link to the paper](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1123).
 - **Homework**: No homework this week. Probably you should think about your final project when enjoying your Lunar New Year Holiday.
