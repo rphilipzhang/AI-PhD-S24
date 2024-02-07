@@ -170,3 +170,4 @@ The following schedule is tentative and subject to changes.
     - Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014. Glove: Global vectors for word representation. *Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)* (pp. 1532-1543).
     - Parts I - II, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
     - [Word Embeddings Trained on Google News Corpus](https://github.com/mmihaltz/word2vec-GoogleNews-vectors)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240206.pdf)
