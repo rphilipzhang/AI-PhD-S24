@@ -179,9 +179,10 @@ The following schedule is tentative and subject to changes.
 - **Scribed Lecture Notes**: *To be updated.*
 - **References**:
     - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688.
-    - Huang, Allen H., Hui Wang, and Yi Yang. 2023. FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research*, 40(2): 806-841.
     - Li, Kai, Feng Mai, Rui Shen, Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
     - Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014. Glove: Global vectors for word representation. *Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)* (pp. 1532-1543).
+    - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. 2014. Sequence to sequence learning with neural networks. *Advances in neural information processing systems*, 27.
     - Parts 2, 5, and 6, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
+    - Chapters 9 and 10, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
     - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
