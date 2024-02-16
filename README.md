@@ -188,4 +188,5 @@ The following schedule is tentative and subject to changes.
     - Parts 2, 5, and 6, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
     - Chapters 9 and 10, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
     - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+    - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
