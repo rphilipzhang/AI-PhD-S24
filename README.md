@@ -179,7 +179,10 @@ The following schedule is tentative and subject to changes.
 - **Scribed Lecture Notes**: *To be updated.*
 - **References**:
     - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688.
-    - Li, Kai, Feng Mai, Rui Shen, Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
+    - Li, Kai, Feng Mai, Rui Shen, and Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
+    - Chen, Fanglin, Xiao Liu, Davide Proserpio, and Isamar Troncoso. 2022. Product2Vec: Leveraging representation learning to model consumer product choice in large assortments. *Available at SSRN 3519358*.
+    - Qi, Meng, Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen. 2023. A Practical End-to-End Inventory Management Model with Deep Learning. *Management Science*, 69(2): 759-773.
+    - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
     - Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014. Glove: Global vectors for word representation. *Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)* (pp. 1532-1543).
     - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. 2014. Sequence to sequence learning with neural networks. *Advances in neural information processing systems*, 27.
     - Parts 2, 5, and 6, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
