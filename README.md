@@ -150,7 +150,7 @@ The following schedule is tentative and subject to changes.
 
 
 ### Session 5. Deep-Learning-Based NLP: Word2Vec (Feb/06/2024)
-- **Keywords**: Traditional NLP Applied to Business/Econ Research, Word2Vec: Continuous Bag of Words, Skip-Gram, and GloVe, Language Model Evaluation, Word2Vec Applied to Business/Econ Research
+- **Keywords**: Traditional NLP Applied to Business/Econ Research, Word2Vec: Continuous Bag of Words and Skip-Gram
 - **Slides**: [NLP(II): N-Gram, Naïve Bayes, and Language Model Evaluation](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-6-NLP(II).pdf), [NLP(III): Word2Vec](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7-NLP(III).pdf)
 - **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR)
 - **Presentation**: By Xinyu Xu and Shu Zhang.
@@ -171,3 +171,27 @@ The following schedule is tentative and subject to changes.
     - Parts I - II, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
     - [Word Embeddings Trained on Google News Corpus](https://github.com/mmihaltz/word2vec-GoogleNews-vectors)
     - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240206.pdf)
+
+### Session 6. Deep-Learning-Based NLP: RNN and Seq2Seq (Feb/20/2024)
+- **Keywords**: Word2Vec: GloVe, Word Embedding and Language Model Evaluations, Word2Vec and RNN Applied to Business/Econ Research, RNN, LSTM, Seq2Seq 
+- **Slides**: [NLP(III): Word2Vec](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7-NLP(III).pdf), [NLP(IV): RNN & Seq2Seq]()
+- **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR)
+- **Presentation**: By Xinyu Xu and Shu Zhang.
+    - Timoshenko, Artem, and John R. Hauser. 2019. Identifying customer needs from user-generated content. *Marketing Science*, 38(1): 1-20. [Link to the paper](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1123).
+- **Homework**: No homework this week. Probably you should think about your final project when enjoying your Lunar New Year Holiday.
+- **Scribed Lecture Notes**: *To be updated.*
+- **References**:
+    - Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. Text as data. *Journal of Economic Literature*, 57(3): 535-574.
+    - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688.
+    - Tetlock, Paul. 2007. Giving content to investor sentiment: The role of media in the stock market. *Journal of Finance*, 62(3): 1139-1168.
+    - Baker, Scott, Nicholas Bloom, and Steven Davis, 2016. Measuring economic policy uncertainty. *Quarterly Journal of Economics*, 131(4): 1593-1636.
+    - Gentzkow, Matthew, and Jesse Shapiro. 2010. What drives media slant? Evidence from US daily newspapers. *Econometrica*, 78(1): 35-71.
+    - Timoshenko, Artem, and John R. Hauser. 2019. Identifying customer needs from user-generated content. *Marketing Science*, 38(1): 1-20.
+    - Li, Kai, Feng Mai, Rui Shen, Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
+    - Mikolov, Tomas, Kai Chen, Greg Corrado, and Jeff Dean. 2013. Efficient estimation of word representations in vector space. *ArXiv Preprint*, arXiv:1301.3781.
+    - Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeff Dean. 2013. Distributed representations of words and phrases and their compositionality. *Advances in Neural Information Processing Systems (NeurIPS)* 26.
+    - Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014. Glove: Global vectors for word representation. *Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)* (pp. 1532-1543).
+    - Parts I - II, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
+    - [Word Embeddings Trained on Google News Corpus](https://github.com/mmihaltz/word2vec-GoogleNews-vectors)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240206.pdf)
+
