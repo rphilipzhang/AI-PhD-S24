@@ -172,7 +172,7 @@ The following schedule is tentative and subject to changes.
 ### Session 6. Deep-Learning-Based NLP: RNN and Seq2Seq (Feb/20/2024)
 - **Keywords**: Word2Vec: GloVe, Word Embedding and Language Model Evaluations, Word2Vec and RNN Applied to Business/Econ Research, RNN, LSTM, Seq2Seq 
 - **Slides**: [NLP(III): Word2Vec](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7-NLP(III).pdf), [NLP(IV): RNN & Seq2Seq](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8-NLP(IV).pdf)
-- **CoLab Notebook Demos**: [RNN & LSTM](https://colab.research.google.com/drive/1M5hLWQmPrIHDV5exjOpJKGmmGM_bvn4v#scrollTo=rQXYDGrsgRTd)
+- **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR), [RNN & LSTM](https://colab.research.google.com/drive/1M5hLWQmPrIHDV5exjOpJKGmmGM_bvn4v#scrollTo=rQXYDGrsgRTd)
 - **Presentation**: By Qiyu Dai and Yifan Ren.
     - Huang, Allen H., Hui Wang, and Yi Yang. 2023. FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research*, 40(2): 806-841. [Link to the paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832). [Link to GitHub Repo](https://github.com/yya518/FinBERT).
 - **Homework**: [Problem Set 4 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1shJ8uVv9OtJNQlu3SN8yt0PR7wXz1WCL#scrollTo=8X3Wh9B2GU4b)
