@@ -189,4 +189,5 @@ The following schedule is tentative and subject to changes.
     - Chapters 9 and 10, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
     - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240220.pdf)
 
