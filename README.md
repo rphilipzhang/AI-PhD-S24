@@ -170,9 +170,9 @@ The following schedule is tentative and subject to changes.
     - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240206.pdf)
 
 ### Session 6. Deep-Learning-Based NLP: RNN and Seq2Seq (Feb/20/2024)
-- **Keywords**: Word2Vec: GloVe, Word Embedding and Language Model Evaluations, Word2Vec and RNN Applied to Business/Econ Research, RNN, LSTM, Seq2Seq 
+- **Keywords**: Word2Vec: GloVe, Word Embedding and Language Model Evaluations, Word2Vec and RNN Applied to Business/Econ Research, RNN 
 - **Slides**: [NLP(III): Word2Vec](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7-NLP(III).pdf), [NLP(IV): RNN & Seq2Seq](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8-NLP(IV).pdf)
-- **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR), [RNN & LSTM](https://colab.research.google.com/drive/1M5hLWQmPrIHDV5exjOpJKGmmGM_bvn4v#scrollTo=rQXYDGrsgRTd)
+- **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR)
 - **Presentation**: By Qiyu Dai and Yifan Ren.
     - Huang, Allen H., Hui Wang, and Yi Yang. 2023. FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research*, 40(2): 806-841. [Link to the paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832). [Link to GitHub Repo](https://github.com/yya518/FinBERT).
 - **Homework**: [Problem Set 4 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1shJ8uVv9OtJNQlu3SN8yt0PR7wXz1WCL#scrollTo=8X3Wh9B2GU4b)
@@ -181,13 +181,34 @@ The following schedule is tentative and subject to changes.
     - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688.
     - Li, Kai, Feng Mai, Rui Shen, and Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
     - Chen, Fanglin, Xiao Liu, Davide Proserpio, and Isamar Troncoso. 2022. Product2Vec: Leveraging representation learning to model consumer product choice in large assortments. *Available at SSRN 3519358*.
-    - Qi, Meng, Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen. 2023. A Practical End-to-End Inventory Management Model with Deep Learning. *Management Science*, 69(2): 759-773.
-    - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
     - Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014. Glove: Global vectors for word representation. *Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)* (pp. 1532-1543).
-    - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. 2014. Sequence to sequence learning with neural networks. *Advances in neural information processing systems*, 27.
-    - Parts 2, 5, and 6, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
+    - Parts 2 and 5, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
     - Chapters 9 and 10, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
     - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-    - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
     - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240220.pdf)
 
+
+
+### Session 7. Deep-Learning-Based NLP: Attention and Transformer (Feb/27/2024)
+- **Keywords**: RNN and its Applications to Business/Econ Research, LSTM, Seq2Seq, Attention Mechanism
+- **Slides**: [NLP(IV): RNN & Seq2Seq](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8-NLP(IV).pdf), [NLP(V): Attention & Transformer](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-9-NLP(V).pdf)
+- **CoLab Notebook Demos**: [RNN & LSTM](https://colab.research.google.com/drive/1M5hLWQmPrIHDV5exjOpJKGmmGM_bvn4v#scrollTo=rQXYDGrsgRTd), [Attention Mechanism](https://colab.research.google.com/drive/1-kvLJoYZnKrfevOLBLec5-Ad-0qz8HH8#scrollTo=fTV9R7YjWCuK)
+- **Presentation**: By Qinghe Gui and Chaoyuan Jiang.
+    - Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50. [Link to the paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4359).
+
+- **Homework**: [Problem Set 4 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1shJ8uVv9OtJNQlu3SN8yt0PR7wXz1WCL#scrollTo=8X3Wh9B2GU4b)
+- **Scribed Lecture Notes**: *To be updated.*
+- **References**:
+    - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688.
+    - Qi, Meng, Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen. 2023. A Practical End-to-End Inventory Management Model with Deep Learning. *Management Science*, 69(2): 759-773.
+    - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
+    - Hansen, Stephen, Peter J. Lambert, Nicholas Bloom, Steven J. Davis, Raffaella Sadun, and Bledi Taska. 2023. Remote work across jobs, companies, and space (No. w31007). *National Bureau of Economic Research*.
+    - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. 2014. Sequence to sequence learning with neural networks. *Advances in neural information processing systems*, 27.
+    - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. 2015. Neural machine translation by jointly learning to align and translate. *ICLR*
+    - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... and Polosukhin, I. (2017). Attention is all you need. *Advances in neural information processing systems*, 30.
+    - Parts 5, 6, and 8, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
+    - Chapters 9, 10, and 11, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
+    - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+    - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+    - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+    - [Transformer from Scratch](https://peterbloem.nl/blog/transformers), with the [Code on GitHub](https://github.com/pbloem/former)
