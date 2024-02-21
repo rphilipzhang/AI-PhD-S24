@@ -199,7 +199,6 @@ The following schedule is tentative and subject to changes.
 - **Homework**: [Problem Set 4 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1shJ8uVv9OtJNQlu3SN8yt0PR7wXz1WCL#scrollTo=8X3Wh9B2GU4b)
 - **Scribed Lecture Notes**: *To be updated.*
 - **References**:
-    - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688.
     - Qi, Meng, Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen. 2023. A Practical End-to-End Inventory Management Model with Deep Learning. *Management Science*, 69(2): 759-773.
     - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
     - Hansen, Stephen, Peter J. Lambert, Nicholas Bloom, Steven J. Davis, Raffaella Sadun, and Bledi Taska. 2023. Remote work across jobs, companies, and space (No. w31007). *National Bureau of Economic Research*.
