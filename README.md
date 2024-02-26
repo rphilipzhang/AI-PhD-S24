@@ -178,7 +178,7 @@ The following schedule is tentative and subject to changes.
 - **Homework**: [Problem Set 4 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1shJ8uVv9OtJNQlu3SN8yt0PR7wXz1WCL#scrollTo=8X3Wh9B2GU4b)
 - **Scribed Lecture Notes**: *To be updated.*
 - **References**:
-    - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688.
+    - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688. [Associated GitHub with Code Demonstrations](https://github.com/sekhansen/text_algorithms_econ).
     - Li, Kai, Feng Mai, Rui Shen, and Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
     - Chen, Fanglin, Xiao Liu, Davide Proserpio, and Isamar Troncoso. 2022. Product2Vec: Leveraging representation learning to model consumer product choice in large assortments. *Available at SSRN 3519358*.
     - Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014. Glove: Global vectors for word representation. *Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)* (pp. 1532-1543).
