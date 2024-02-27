@@ -211,3 +211,4 @@ The following schedule is tentative and subject to changes.
     - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
     - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
     - [Transformer from Scratch](https://peterbloem.nl/blog/transformers), with the [Code on GitHub](https://github.com/pbloem/former)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240227.pdf)
