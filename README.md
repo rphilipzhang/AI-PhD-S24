@@ -171,7 +171,7 @@ The following schedule is tentative and subject to changes.
 
 ### Session 6. Deep-Learning-Based NLP: RNN and Seq2Seq (Feb/20/2024)
 - **Keywords**: Word2Vec: GloVe, Word Embedding and Language Model Evaluations, Word2Vec and RNN Applied to Business/Econ Research, RNN 
-- **Slides**: [NLP(III): Word2Vec](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7-NLP(III).pdf), [NLP(IV): RNN & Seq2Seq](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8-NLP(IV).pdf)
+- **Slides**: [Guest Lecture Announcement](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7.5.pdf), [NLP(III): Word2Vec](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-7-NLP(III).pdf), [NLP(IV): RNN & Seq2Seq](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8-NLP(IV).pdf)
 - **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/1RG35glSqj-xP0j2WgZNhTvJ7DEZ-LbmK), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/1kI4Czgwm0MVu6zcKhMar9GWidOntCdBR)
 - **Presentation**: By Qiyu Dai and Yifan Ren.
     - Huang, Allen H., Hui Wang, and Yi Yang. 2023. FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research*, 40(2): 806-841. [Link to the paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832). [Link to GitHub Repo](https://github.com/yya518/FinBERT).
@@ -191,7 +191,7 @@ The following schedule is tentative and subject to changes.
 
 ### Session 7. Deep-Learning-Based NLP: Attention and Transformer (Feb/27/2024)
 - **Keywords**: RNN and its Applications to Business/Econ Research, LSTM, Seq2Seq, Attention Mechanism
-- **Slides**: [NLP(IV): RNN & Seq2Seq](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8-NLP(IV).pdf), [NLP(V): Attention & Transformer](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-9-NLP(V).pdf)
+- **Slides**: [Final Project](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8.5.pdf), [NLP(IV): RNN & Seq2Seq](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8-NLP(IV).pdf), [NLP(V): Attention & Transformer](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-9-NLP(V).pdf)
 - **CoLab Notebook Demos**: [RNN & LSTM](https://colab.research.google.com/drive/1M5hLWQmPrIHDV5exjOpJKGmmGM_bvn4v#scrollTo=rQXYDGrsgRTd), [Attention Mechanism](https://colab.research.google.com/drive/1-kvLJoYZnKrfevOLBLec5-Ad-0qz8HH8#scrollTo=fTV9R7YjWCuK)
 - **Presentation**: By Qinghe Gui and Chaoyuan Jiang.
     - Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50. [Link to the paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4359).
