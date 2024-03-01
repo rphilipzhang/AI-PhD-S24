@@ -90,6 +90,7 @@ The following schedule is tentative and subject to changes.
     - Hofman, Jake M., et al. 2021. Integrating explanation and prediction in computational social science. *Nature* 595.7866: 181-188.
     - Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. *Innovative Technology at the Interface of Finance and Operations*. Springer: 189-222.
     - Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, *SSRN*, https://ssrn.com/abstract=4501707.   
+    - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), by Rich Sutton, which develops so far the most critical insight of AI: "The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."
 
 ### Session 2. Introduction to Deep Learning (Jan/16/2024)
 - **Keywords**: Random Forests, eXtreme Gradient Boosting Trees, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
