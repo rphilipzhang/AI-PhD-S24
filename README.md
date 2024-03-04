@@ -221,7 +221,7 @@ The following schedule is tentative and subject to changes.
 - **CoLab Notebook Demos**: [Attention Mechanism](https://colab.research.google.com/drive/1-kvLJoYZnKrfevOLBLec5-Ad-0qz8HH8#scrollTo=fTV9R7YjWCuK)
 - **Homework**: [One-page Proposal for Your Final Project](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8.5.pdf)
 - **References**:
-    -[The Bitter Lesson, by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+    - [The Bitter Lesson, by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
     - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. 2015. Neural machine translation by jointly learning to align and translate. *ICLR*
     - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... and Polosukhin, I. (2017). Attention is all you need. *Advances in neural information processing systems*, 30.
     - Part 8, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
