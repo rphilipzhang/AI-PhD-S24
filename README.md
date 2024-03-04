@@ -219,6 +219,7 @@ The following schedule is tentative and subject to changes.
 - **Keywords**: Attention Mechanism, Transformer
 - **Slides**: [The Bitter Lesson](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-9.5.pdf), [NLP(V): Attention & Transformer](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-9-NLP(V).pdf)
 - **CoLab Notebook Demos**: [Attention Mechanism](https://colab.research.google.com/drive/1-kvLJoYZnKrfevOLBLec5-Ad-0qz8HH8#scrollTo=fTV9R7YjWCuK)
+- **Homework**: [One-page Proposal for Your Final Project](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-8.5.pdf)
 - **References**:
     -[The Bitter Lesson, by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
     - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. 2015. Neural machine translation by jointly learning to align and translate. *ICLR*
