@@ -228,3 +228,4 @@ The following schedule is tentative and subject to changes.
     - Chapter 11, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
     - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
     - [Transformer from Scratch](https://peterbloem.nl/blog/transformers), with the [Code on GitHub](https://github.com/pbloem/former)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240305.pdf)
