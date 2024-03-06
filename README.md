@@ -229,3 +229,23 @@ The following schedule is tentative and subject to changes.
     - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
     - [Transformer from Scratch](https://peterbloem.nl/blog/transformers), with the [Code on GitHub](https://github.com/pbloem/former)
     - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240305.pdf)
+
+
+### Session 8. Deep-Learning-Based NLP: Pretraining (Mar/12/2024)
+- **Keywords**: Computations in AI, BERT (Bidirectional Encoder Representations from Transformers), Generative Pretrained Transformers
+- **Slides**: [Pretraining](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10-NLP(VI).pdf)
+- **CoLab Notebook Demos**: [BERT API @ Hugging Face](https://colab.research.google.com/drive/1Scfw58qaR1Wp8OvBqE6mWb55Jj2FhMM_)
+- **Presentation**: By Zhankun Chen and Yiyi Zhao.
+    - Noy, Shakked and Whitney Zhang. 2023. Experimental evidence on the productivity effects of generative artificial intelligence. *Science*, 381: 187-192. [Link to the Paper](https://www.science.org/doi/pdf/10.1126/science.adh2586)
+- **Homework**: [Problem Set 5 - Sentiment Analysis with Hugging Face](https://colab.research.google.com/drive/19rMnrzi27CbyA0V2zbxFjizXRagdWVnA)
+- **References**:
+    - [The Bitter Lesson, by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+    - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. 2018. BERT: Pre-training of deep bidirectional transformers for language understanding. *ArXiv preprint* arXiv:1810.04805. [GitHub Repo](https://github.com/google-research/bert)
+    - Radford, Alec, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. Improving language understanding by generative pre-training, [PDF link](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [GitHub Repo](https://github.com/openai/finetune-transformer-lm).
+    - Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever. 2019. Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9. [PDF Link](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf), [GitHub Repo Link](https://github.com/openai/gpt-2).
+
+    - Brown, Tom, et al. 2020. Language models are few-shot learners. *Advances in neural information processing systems*, 33, 1877-1901. [GitHub Repo Link](https://github.com/openai/gpt-3)
+    - Huang, Allen H., Hui Wang, and Yi Yang. 2023. FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research*, 40(2): 806-841. [Link to the paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832). [Link to GitHub Repo](https://github.com/yya518/FinBERT).
+    - Part 9, Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
+    - Part 2 & 4, Slides for COS 597G: Understanding Large Language Models, by Danqi Chen, https://www.cs.princeton.edu/courses/archive/fall22/cos597G/.
+    - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
