@@ -237,7 +237,7 @@ The following schedule is tentative and subject to changes.
 - **CoLab Notebook Demos**: [BERT API @ Hugging Face](https://colab.research.google.com/drive/1Scfw58qaR1Wp8OvBqE6mWb55Jj2FhMM_)
 - **Presentation**: By Zhankun Chen and Yiyi Zhao.
     - Noy, Shakked and Whitney Zhang. 2023. Experimental evidence on the productivity effects of generative artificial intelligence. *Science*, 381: 187-192. [Link to the Paper](https://www.science.org/doi/pdf/10.1126/science.adh2586)
-- **Homework**: [Problem Set 5 - Sentiment Analysis with Hugging Face](https://colab.research.google.com/drive/19rMnrzi27CbyA0V2zbxFjizXRagdWVnA)
+- **Homework**: [Problem Set 5 - Sentiment Analysis with Hugging Face](https://colab.research.google.com/drive/19rMnrzi27CbyA0V2zbxFjizXRagdWVnA), due at 12:30pm, March 26, Tuesday.
 - **References**:
     - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. 2018. BERT: Pre-training of deep bidirectional transformers for language understanding. *ArXiv preprint* arXiv:1810.04805. [GitHub Repo](https://github.com/google-research/bert)
     - Radford, Alec, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. Improving language understanding by generative pre-training, [PDF link](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [GitHub Repo](https://github.com/openai/finetune-transformer-lm).
