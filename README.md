@@ -239,7 +239,6 @@ The following schedule is tentative and subject to changes.
     - Noy, Shakked and Whitney Zhang. 2023. Experimental evidence on the productivity effects of generative artificial intelligence. *Science*, 381: 187-192. [Link to the Paper](https://www.science.org/doi/pdf/10.1126/science.adh2586)
 - **Homework**: [Problem Set 5 - Sentiment Analysis with Hugging Face](https://colab.research.google.com/drive/19rMnrzi27CbyA0V2zbxFjizXRagdWVnA)
 - **References**:
-    - [The Bitter Lesson, by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
     - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. 2018. BERT: Pre-training of deep bidirectional transformers for language understanding. *ArXiv preprint* arXiv:1810.04805. [GitHub Repo](https://github.com/google-research/bert)
     - Radford, Alec, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. Improving language understanding by generative pre-training, [PDF link](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [GitHub Repo](https://github.com/openai/finetune-transformer-lm).
     - Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever. 2019. Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9. [PDF Link](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf), [GitHub Repo Link](https://github.com/openai/gpt-2).
