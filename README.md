@@ -232,7 +232,7 @@ The following schedule is tentative and subject to changes.
 
 
 ### Session 8. Deep-Learning-Based NLP: Pretraining (Mar/12/2024)
-- **Keywords**: Computations in AI, BERT (Bidirectional Encoder Representations from Transformers), Generative Pretrained Transformers
+- **Keywords**: Computations in AI, BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pretrained Transformers)
 - **Slides**: [Pretraining](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10-NLP(VI).pdf)
 - **CoLab Notebook Demos**: [BERT API @ Hugging Face](https://colab.research.google.com/drive/1Scfw58qaR1Wp8OvBqE6mWb55Jj2FhMM_)
 - **Presentation**: By Zhankun Chen and Yiyi Zhao.
