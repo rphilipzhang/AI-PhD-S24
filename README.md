@@ -233,8 +233,8 @@ The following schedule is tentative and subject to changes.
 
 ### Session 8. Deep-Learning-Based NLP: Pretraining (Mar/12/2024)
 - **Keywords**: Computations in AI, BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pretrained Transformers)
-- **Slides**: [Pretraining](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10-NLP(VI).pdf)
-- **CoLab Notebook Demos**: [BERT API @ Hugging Face](https://colab.research.google.com/drive/1Scfw58qaR1Wp8OvBqE6mWb55Jj2FhMM_)
+- **Slides**: [Guest Lecture by Dr. Liubo Li on Deep Learning Computation](https://docs.google.com/presentation/d/1RlloczzRGrHOZqV_KBYVxYy7aljx4nN8BIEbx1KBWKE/edit?invite=CPjxzs8B#slide=id.g2c123b2306c_0_358), [Pretraining](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10-NLP(VI).pdf)
+- **CoLab Notebook Demos**: [Crafting Intelligence: The Art of Deep Learning Modeling](https://colab.research.google.com/drive/1FoFSjfGiCiAXJCCogIE5f12FrN-k9nLh), [BERT API @ Hugging Face](https://colab.research.google.com/drive/1Scfw58qaR1Wp8OvBqE6mWb55Jj2FhMM_)
 - **Presentation**: By Zhankun Chen and Yiyi Zhao.
     - Noy, Shakked and Whitney Zhang. 2023. Experimental evidence on the productivity effects of generative artificial intelligence. *Science*, 381: 187-192. [Link to the Paper](https://www.science.org/doi/pdf/10.1126/science.adh2586)
 - **Homework**: [Problem Set 5 - Sentiment Analysis with Hugging Face](https://colab.research.google.com/drive/19rMnrzi27CbyA0V2zbxFjizXRagdWVnA), due at 12:30pm, March 26, Tuesday.
