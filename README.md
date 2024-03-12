@@ -247,3 +247,4 @@ The following schedule is tentative and subject to changes.
     - Part 9, Lecture Notes and Slides for CS 224N: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto. [Link to CS 224N](https://web.stanford.edu/class/cs224n/)
     - Part 2 & 4, Slides for COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
     - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240312.pdf)
