@@ -67,7 +67,7 @@ All problem sets are due at 12:30pm right before class.
 ## Useful Resources
 Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/AI-PhD-Syllabus-S2024.pdf).
 
-- **Books**: [ESL](https://hastie.su.domains/ElemStatLearn/), [Deep Learning](https://www.deeplearningbook.org/), [Dive into Deep Learning](https://d2l.ai/), [ML Fairness](https://fairmlbook.org/)
+- **Books**: [ESL](https://hastie.su.domains/ElemStatLearn/), [Deep Learning](https://www.deeplearningbook.org/), [Dive into Deep Learning](https://d2l.ai/), [ML Fairness](https://fairmlbook.org/), [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
 - **Courses**: [ML Intro by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction), [DL Intro by Andrew Ng](https://www.coursera.org/specializations/deep-learning), [NLP (CS224N) by Chris Manning](https://web.stanford.edu/class/cs224n/), [CV (CS231N) by Fei-Fei Li](http://cs231n.stanford.edu/), [Deep Unsupervised Learning by Pieter Abbeel](https://sites.google.com/view/berkeley-cs294-158-sp24/home), [DLR by Sergey Levine](https://rail.eecs.berkeley.edu/deeprlcourse/), [DL Theory by Matus Telgarsky](https://mjt.cs.illinois.edu/courses/dlt-f22/), [LLM by Danqi Chen](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), [Generative AI by Andrew Ng](https://www.deeplearning.ai/short-courses/), [Machine Learning and Big Data by Melissa Dell and Matthew Harding](https://www.aeaweb.org/conference/cont-ed/2023-webcasts), [Digital Economics and the Economics of AI by Martin Beraja, Chiara Farronato, Avi Goldfarb, and Catherine Tucker](https://www.aeaweb.org/content/file?id=19707)
 
 
@@ -248,3 +248,25 @@ The following schedule is tentative and subject to changes.
     - Part 2 & 4, Slides for COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
     - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
     - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240312.pdf)
+
+### Session 9. Deep-Learning-Based NLP: Large Language Models (Mar/19/2024)
+- **Keywords**: Large Language Models, Generative AI, Emergent Ababilities, Instruction Fine-Tuning (IFT), Reinforcement Learning with Human Feedback (RLHF), In-Context Learning, Chain-of-Thought (CoT)
+- **Slides**: [Pretraining](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10-NLP(VI).pdf), [Large Language Models](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-11-NLP(VII).pdf)
+- **CoLab Notebook Demos**: [BERT API @ Hugging Face](https://colab.research.google.com/drive/1Scfw58qaR1Wp8OvBqE6mWb55Jj2FhMM_)
+- **Presentation**: By Jia Liu.
+    - Liu, Liu, Dzyabura, Daria, Mizik, Natalie. 2020. Visual listening in: Extracting brand image portrayed on social media. *Marketing Science*, **39**(4): 669-686. [Link to the Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2020.1226)
+- **Homework**: [Problem Set 5 - Sentiment Analysis with Hugging Face](https://colab.research.google.com/drive/19rMnrzi27CbyA0V2zbxFjizXRagdWVnA), due at 12:30pm, March 26, Tuesday (**soft-deadline**).
+- **References**:
+    - Wei, Jason, et al. 2021. Finetuned language models are zero-shot learners. *ArXiv preprint* arXiv:2109.01652, [link to the paper](https://arxiv.org/abs/2109.01652).
+    - Wei, Jason, et al. 2022. Emergent abilities of large language models. *ArXiv preprint* arXiv:2206.07682, [link to the paper](https://arxiv.org/abs/2206.07682).
+    - Ouyang, Long, et al. 2022. Training language models to follow instructions with human feedback. *Advances in Neural Information Processing Systems*, **35**, 27730-27744.
+    - Wei, Jason, et al. 2022. Chain-of-thought prompting elicits reasoning in large language models. *Advances in Neural Information Processing Systems*, **35**, 24824-24837.
+    - Kaplan, Jared. 2020. Scaling laws for neural language models. *ArXiv preprint* arXiv:2001.08361, [link to the paper](https://arxiv.org/abs/2001.08361).
+    - Hoffmann, Jordan, et al. 2022. Training compute-optimal large language models. *ArXiv preprint* arXiv:2203.15556, [link to the paper](https://arxiv.org/abs/2203.15556).
+    - Shinn, Noah, et al. 2023. Reflexion: Language agents with verbal reinforcement learning. *ArXiv preprint* arXiv:2303.11366, [link to the paper](https://arxiv.org/abs/2303.11366).
+    - Reisenbichler, Martin, Thomas Reutterer, David A. Schweidel, and Daniel Dan. 2022. Frontiers: Supporting content marketing with natural language generation. *Marketing Science*, **41**(3): 441-452.
+    - Romera-Paredes, B., Barekatain, M., Novikov, A. et al. 2023. Mathematical discoveries from program search with large language models. *Nature*, [link to the paper](https://doi.org/10.1038/s41586-023-06924-6).
+    - Part 10, Lecture Notes and Slides for CS224N: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto. [Link to CS 224N](https://web.stanford.edu/class/cs224n/)
+    - COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+    - [Andrej Karpathy's 1-hour Talk on LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+    - [CS224N, Hugging Face Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing)
