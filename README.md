@@ -251,7 +251,7 @@ The following schedule is tentative and subject to changes.
 
 ### Session 9. Deep-Learning-Based NLP: Large Language Models (Mar/19/2024)
 - **Keywords**: Large Language Models, Generative AI, Emergent Ababilities, Instruction Fine-Tuning (IFT), Reinforcement Learning with Human Feedback (RLHF), In-Context Learning, Chain-of-Thought (CoT)
-- **Slides**: [Pretraining](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10-NLP(VI).pdf), [Large Language Models](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-11-NLP(VII).pdf)
+- **Slides**: [What's Next](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10.5.pdf), [Pretraining](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-10-NLP(VI).pdf), [Large Language Models](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-11-NLP(VII).pdf)
 - **CoLab Notebook Demos**: [BERT API @ Hugging Face](https://colab.research.google.com/drive/1Scfw58qaR1Wp8OvBqE6mWb55Jj2FhMM_)
 - **Presentation**: By Jia Liu.
     - Liu, Liu, Dzyabura, Daria, Mizik, Natalie. 2020. Visual listening in: Extracting brand image portrayed on social media. *Marketing Science*, **39**(4): 669-686. [Link to the Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2020.1226)
