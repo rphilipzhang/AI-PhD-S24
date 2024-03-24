@@ -269,4 +269,22 @@ The following schedule is tentative and subject to changes.
     - Part 10, Lecture Notes and Slides for CS224N: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto. [Link to CS 224N](https://web.stanford.edu/class/cs224n/)
     - COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
     - [Andrej Karpathy's 1-hour Talk on LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-    - [CS224N, Hugging Face Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing)
+    - [CS224n, Hugging Face Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing)
+
+### Session 10. Deep-Learning-Based CV: Image Classification (Mar/26/2024)
+- **Keywords**: Large Language Models Applications, Convolution Neural Nets (CNN), LeNet, AlexNet, VGG, ResNet, ViT
+- **Slides**: [What's Next](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-11.5.pdf), [Large Language Models](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-11-NLP(VII).pdf), [Image Classification](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-12-CV(I).pdf)
+- **CoLab Notebook Demos**: [CNN, LeNet, & AlexNet](https://colab.research.google.com/drive/1Y1ybQtJHRCyVVi_Q_XlgwYsZ_G434XES), [VGG](https://colab.research.google.com/drive/1mRZmw5d4tR6CZ1v6YOJ8xe7pfZ_yC2W2), [ResNet](https://colab.research.google.com/drive/1spPFljkFoW0_h03QBBQCaNSoxUCNzKjo), [ViT](https://colab.research.google.com/drive/16zVixTi2SpW1wzgDcpXEXBd5Zo2TzOQd)
+- **Presentation**: By Yingxin Lin and Zeshen Ye.
+    - Netzer, Oded, Alain Lemaire, and Michal Herzenstein. 2019. When words sweat: Identifying signals for loan default in the text of loan applications. *Journal of Marketing Research*, 56(6): 960-980. [Link to the Paper](https://journals.sagepub.com/doi/10.1177/0022243719852959)
+- **Homework**: [Problem Set 6 - AlexNet and ResNet](https://colab.research.google.com/drive/19q7qhYmPYbkQGEa12N2RWZRJXbzn5f30), due at 12:30pm, April 9, Tuesday.
+- **References**:
+    - Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2012. Imagenet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 25.
+    - He, Kaiming, Xiangyu Zhang, Shaoqing Ren and Jian Sun. 2016. Deep residual learning for image recognition. *Proceedings of the IEEE conference on computer vision and pattern recognition*, 770-778.
+    - Dosovitskiy, Alexey, et al. 2020. An image is worth 16x16 words: Transformers for image recognition at scale. *ArXiv preprint*, arXiv:2010.11929, [link to the paper](https://arxiv.org/abs/2010.11929), [link to the GitHub repo](https://github.com/google-research/vision_transformer).
+    - Jean, Neal, Marshall Burke, Michael Xie, Matthew W. Davis, David B. Lobell, and Stefand Ermon. 2016. Combining satellite imagery and machine learning to predict poverty. *Science*, 353(6301), 790-794.
+    - Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50.
+    - Course Notes (Lectures 5 & 6) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
+    - Chapters 7 and 8, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).
+    - [Fine-Tune ViT for Image Classification with Hugging Face 🤗 Transformers](https://huggingface.co/blog/fine-tune-vit), [Hugging Face 🤗 ViT CoLab Tutorial](https://colab.research.google.com/github/nateraw/huggingface-hub-examples/blob/main/vit_image_classification_explained.ipynb)
+
