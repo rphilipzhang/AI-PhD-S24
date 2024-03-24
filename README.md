@@ -286,5 +286,6 @@ The following schedule is tentative and subject to changes.
     - Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50.
     - Course Notes (Lectures 5 & 6) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
     - Chapters 7 and 8, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).
-    - [Fine-Tune ViT for Image Classification with Hugging Face 🤗 Transformers](https://huggingface.co/blog/fine-tune-vit), [Hugging Face 🤗 ViT CoLab Tutorial](https://colab.research.google.com/github/nateraw/huggingface-hub-examples/blob/main/vit_image_classification_explained.ipynb)
+    - [Fine-Tune ViT for Image Classification with Hugging Face 🤗 Transformers](https://huggingface.co/blog/fine-tune-vit) 
+    - [Hugging Face 🤗 ViT CoLab Tutorial](https://colab.research.google.com/github/nateraw/huggingface-hub-examples/blob/main/vit_image_classification_explained.ipynb)
 
