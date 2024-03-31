@@ -62,7 +62,7 @@ All problem sets are due at 12:30pm right before class.
 |3.05|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
 |3.12| 12:30pm|Final Project Proposal|1-page maximum|
 |4.30| 11:59pm|Scribed Lecture Notes|Overleaf link|
-|5.12|11:59pm|Project Paper, Slides, and Code|Page page limit: 10| 
+|5.12|11:59pm|Project Paper, Slides, and Code|Paper page limit: 10| 
 
 
 ## Useful Resources
