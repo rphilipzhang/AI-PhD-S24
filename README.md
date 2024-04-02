@@ -306,4 +306,5 @@ The following schedule is tentative and subject to changes.
     - Zhang, S., Xu, K. and Srinivasan, K., 2023. Frontiers: Unmasking Social Compliance Behavior During the Pandemic. *Marketing Science*, 42(3), pp.440-450.
     - Course Notes (Lectures 10 & 11) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
     - Chapter 14, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240402.pdf)
 
