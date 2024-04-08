@@ -318,7 +318,7 @@ The following schedule is tentative and subject to changes.
     - Blei, David M., Ng, Andrew Y., and Jordan, Michael I. 2003. Latent Dirichlet allocation. *Journal of Machine Learning Research*, 3(Jan): 993-1022.
     - Kingma, D.P. and Welling, M., 2013. Auto-encoding Variational Bayes. arXiv preprint *arXiv:1312.6114*.
     - Kingma, D.P. and Welling, M., 2019. An introduction to variational autoencoders. *Foundations and Trends® in Machine Learning*, 12(4), pp.307-392.
-    - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870.
+    - Bandiera, O., Prat, A., Hansen, S., & Sadun, R. 2020. CEO behavior and firm performance. *Journal of Political Economy*, 128(4), 1325-1369.
     - Liu, Jia and Olivier Toubia. 2018. A semantic approach for estimating consumer content preferences from online search queries. *Marketing Science*, 37(6): 930-952.    
     - Mueller, Hannes, and Christopher Rauh. 2018. Reading between the lines: Prediction of political violence using newspaper text. *American Political Science Review*, 112(2): 358-375.
     - Tian, Z., Dew, R. and Iyengar, R., 2023. Mega or Micro? Influencer Selection Using Follower Elasticity. *Journal of Marketing Research*.
