@@ -311,7 +311,7 @@ The following schedule is tentative and subject to changes.
 
 ### Session 12. Unsupervised Learning: Clustering, Topic Modeling & VAE (Apr/9/2024)
 - **Keywords**: K-Means, Gaussian Mixture Models, EM-Algorithm, Latent Dirichlet Allocation, Variational Auto-Encoder
-- **Slides**: [What's Next](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-13.5.pdf), [Object Detection and Video Analysis](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-14-Unsupervised(I).pdf) 
+- **Slides**: [What's Next](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-13.5.pdf), [Clustering, Topic Modeling & VAE](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-14-Unsupervised(I).pdf) 
 - **CoLab Notebook Demos**: [K-Means](https://colab.research.google.com/drive/1Caf-B-el8avqgMv0OeRUDzDA6Y0W34nF), [LDA](https://colab.research.google.com/drive/1evw_ya2cjGUXCldkxeoFPsHE1T9Uiids), [VAE](https://colab.research.google.com/drive/1-KRBIOcFL74NWk6QkbXVe3H6Rf8R75Oq)
 - **Homework**: [Problem Set 7 - Unsupervised Learning (EM & LDA)](https://colab.research.google.com/drive/1RyLPN9-kkZN8tLaaoVTGHUNPFAZ3C1SV), due at 12:30pm, April 23, Tuesday.
 - **References**:
