@@ -308,3 +308,19 @@ The following schedule is tentative and subject to changes.
     - Chapter 14, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).
     - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240402.pdf)
 
+
+### Session 12. Unsupervised Learning: Clustering, Topic Modeling & VAE (Apr/9/2024)
+- **Keywords**: K-Means, Gaussian Mixture Models, EM-Algorithm, Latent Dirichlet Allocation, Variational Auto-Encoder
+- **Slides**: [What's Next](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-13.5.pdf), [Object Detection and Video Analysis](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-14-Unsupervised(I).pdf) 
+- **CoLab Notebook Demos**: [K-Means](https://colab.research.google.com/drive/1Caf-B-el8avqgMv0OeRUDzDA6Y0W34nF), [LDA](https://colab.research.google.com/drive/1evw_ya2cjGUXCldkxeoFPsHE1T9Uiids), [VAE](https://colab.research.google.com/drive/1-KRBIOcFL74NWk6QkbXVe3H6Rf8R75Oq)
+- **Homework**: [Problem Set 7 - Unsupervised Learning (EM & LDA)](https://colab.research.google.com/drive/1RyLPN9-kkZN8tLaaoVTGHUNPFAZ3C1SV), due at 12:30pm, April 23, Tuesday.
+- **References**:
+    - Blei, David M., Ng, Andrew Y., and Jordan, Michael I. 2003. Latent Dirichlet allocation. *Journal of Machine Learning Research*, 3(Jan): 993-1022.
+    - Kingma, D.P. and Welling, M., 2013. Auto-encoding Variational Bayes. arXiv preprint *arXiv:1312.6114*.
+    - Kingma, D.P. and Welling, M., 2019. An introduction to variational autoencoders. *Foundations and Trends® in Machine Learning*, 12(4), pp.307-392.
+    - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870.
+    - Liu, Jia and Olivier Toubia. 2018. A semantic approach for estimating consumer content preferences from online search queries. *Marketing Science*, 37(6): 930-952.    
+    - Mueller, Hannes, and Christopher Rauh. 2018. Reading between the lines: Prediction of political violence using newspaper text. *American Political Science Review*, 112(2): 358-375.
+    - Tian, Z., Dew, R. and Iyengar, R., 2023. Mega or Micro? Influencer Selection Using Follower Elasticity. *Journal of Marketing Research*.
+    - Chapters 8.5 and 14, *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, [Link to Book](https://hastie.su.domains/ElemStatLearn/).
+    - Course Notes (Lectures 1 & 4) for CS294-158-SP24: Deep Unsupervised Learning, taught by Pieter Abbeel, Wilson Yan, Kevin Frans, Philipp Wu. [Link to CS294-158-SP24](https://sites.google.com/view/berkeley-cs294-158-sp24/home).
