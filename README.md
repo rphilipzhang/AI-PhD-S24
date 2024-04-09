@@ -324,3 +324,4 @@ The following schedule is tentative and subject to changes.
     - Tian, Z., Dew, R. and Iyengar, R., 2023. Mega or Micro? Influencer Selection Using Follower Elasticity. *Journal of Marketing Research*.
     - Chapters 8.5 and 14, *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, [Link to Book](https://hastie.su.domains/ElemStatLearn/).
     - Course Notes (Lectures 1 & 4) for CS294-158-SP24: Deep Unsupervised Learning, taught by Pieter Abbeel, Wilson Yan, Kevin Frans, Philipp Wu. [Link to CS294-158-SP24](https://sites.google.com/view/berkeley-cs294-158-sp24/home).
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240409.pdf)
