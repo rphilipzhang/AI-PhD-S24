@@ -37,18 +37,19 @@ Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
 |:-------:|:-------------:|:----:|:-:|
 |1|1.09|AI/ML in a Nutshell|Course Intro, ML Models, Model Evaluations|
 |2|1.16|Intro to DL|DL Intro, Neural Nets, Computational Issues in DL|
-|3|1.23|Prediction and Traditional NLP|Prediction in Biz Research, Pre-processing, Word Representations| 
-|4|1.30|NLP (II): Word2Vec|$N$-gram, NLP Performance Evaluation, Word2Vec|
-|5|2.06|NLP (III): Seq2Seq and Attention|RNN, Seq2Seq, (Self-)Attention|
-|6|2.20|NLP (IV): Transformer|Tranformer, BERT, GPT|
-|7|2.27|NLP (V): LLM and Generative AI|Prompting, Emergence, Generative AI in Biz Research| 
-|7.5|3.05|Final Project Proposal|No Class, Group Meeting with Philip|
-|8|3.12|Image Processing and CV (I)|CNN, AlexNet, ResNet|
-|9|3.19|CV (II)|Data Augmentation, ViT, Video Understanding|
-|10|3.26|Unsupervised Learning (I)|EM, LDA, Topic Modeling|
-|11|4.02|Unsupervised Learning (II)|VAE, Stable Diffusion, Multimodality|
-|12|4.09|Algorithm and Fairness|Algorithmic Fairness/Bias in CS and Econ, Testing Discrimination|
-|13|4.16|Final Project Presentation|Show, not tell!| 
+|3|1.23|Prediction and Traditional NLP|Prediction in Biz Research, Pre-processing| 
+|4|1.30|NLP (II): Traditional NLP|$N$-gram, NLP Performance Evaluations, Naïve Bayes|
+|5|2.06|NLP (III): Word2Vec|CBOW, Skip Gram|
+|6|2.20|NLP (IV): RNN|Glove, Language Model Evaluation, RNN|
+|7|2.27|NLP (V): Seq2Seq|LSTM, Seq2Seq, Attention Mechanism|
+|7.5|3.05|NLP (V.V): Transformer|The Bitter Lesson, Attention is All You Need| 
+|8.|3.12|NLP (VI): Pre-training|Computational Tricks in DL, BERT, GPT|
+|9|3.19|NLP (VII): LLM|Emergent Abilities, Chain-of-Thought, In-context Learning, GenAI in Business Research|
+|10|3.26|CV (I): Image Classification|CNN, AlexNet, ResNet, ViT|
+|11|4.02|CV (II): Image Segmentation and Video Analysis|R-CNN, YOLO, 3D-CNN|
+|12|4.09|Unsupervised Learning (I): Clustering & Topic Modeling|GMM, EM Algorithm, LDA|
+|13|4.16|Unsupervised Learning (II): Diffusion Models|VAE, DDPM, LDM, DiT|
+
 
 ## Important Dates
 
