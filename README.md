@@ -43,7 +43,7 @@ Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
 |6|2.20|NLP (IV): RNN|Glove, Language Model Evaluation, RNN|
 |7|2.27|NLP (V): Seq2Seq|LSTM, Seq2Seq, Attention Mechanism|
 |7.5|3.05|NLP (V.V): Transformer|The Bitter Lesson, Attention is All You Need| 
-|8.|3.12|NLP (VI): Pre-training|Computational Tricks in DL, BERT, GPT|
+|8|3.12|NLP (VI): Pre-training|Computational Tricks in DL, BERT, GPT|
 |9|3.19|NLP (VII): LLM|Emergent Abilities, Chain-of-Thought, In-context Learning, GenAI in Business Research|
 |10|3.26|CV (I): Image Classification|CNN, AlexNet, ResNet, ViT|
 |11|4.02|CV (II): Image Segmentation and Video Analysis|R-CNN, YOLO, 3D-CNN|
