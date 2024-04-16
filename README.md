@@ -345,3 +345,4 @@ The following schedule is tentative and subject to changes.
     - CVPR 2022 Tutorial: Denoising Diffusion-based Generative Modeling:
 Foundations and Applications, by Karsten Kreis, Ruiqi Gao, and Arash Vahdat [Link to the Tutorial](https://cvpr2022-tutorial-diffusion-models.github.io/)
     - [Hugging Face Diffusers 🤗 Library](https://huggingface.co/diffusers)
+    - [Hand Written Notes](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/240416.pdf)
