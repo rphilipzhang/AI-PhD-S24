@@ -85,7 +85,6 @@ The following schedule is tentative and subject to changes.
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf)
 - **CoLab Notebook Demos**: [k-Nearest Neighbors](https://colab.research.google.com/drive/1-PuAN4SXddJE81hccE76MW4GN3vdtjEF), [Decision Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0)
 - **Homework**: [Problem Set 1: Bias-Variance Trade-Off](https://colab.research.google.com/drive/1BviUCmJPMeXsdRZ3O0gGtgS3JV12U_3d)
-- **Scribed Lecture Notes**: *To be updated.*
 - **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui#scrollTo=635401d7), 7:00pm-9:00pm, Jan/12/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
 - **References**:
     - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, https://hastie.su.domains/ElemStatLearn/.
@@ -104,7 +103,6 @@ The following schedule is tentative and subject to changes.
 - **Presentation**: By Xinyu Li and Qingyu Xu.
     - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing via machine learning. *Review of Financial Studies* 33: 2223-2273. [Link to the paper](https://academic.oup.com/rfs/article/33/5/2223/5758276).
 - **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1Xse83Jpo4Omy7nIU-7OwExRyxYNhL9gM#scrollTo=PUTtgESCYPVN)
-- **Scribed Lecture Notes**: *To be updated.*
 - **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1Yg5q5v2CKNwPuaNAieg7ENDdA8Tn3wux), 7:00pm-9:00pm, Jan/19/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
 - **References**:
     - *Deep Learning*, 2016, by Ian Goodfellow, Yoshua Bengio and Aaron Courville, https://www.deeplearningbook.org/.
@@ -121,7 +119,6 @@ The following schedule is tentative and subject to changes.
 - **Presentation**: By Letian Kong and Liheng Tan.
     - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106. [Link to the paper](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87).
 - **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1Xse83Jpo4Omy7nIU-7OwExRyxYNhL9gM#scrollTo=PUTtgESCYPVN), due at **12:30pm, Jan/30/2024 (Tuesday)**.
-- **Scribed Lecture Notes**: *To be updated.*
 - **References**:
     - Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer. 2015. Prediction policy problems. *American Economic Review* 105(5): 491-495.
     - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106.
@@ -145,7 +142,6 @@ The following schedule is tentative and subject to changes.
 - **Presentation**: By Zhi Li and Boya Peng.
     - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870. [Link to the paper](https://academic.oup.com/qje/article/133/2/801/4582916).
 - **Homework**: [Problem Set 3: Implementing Traditional NLP Techniques](https://colab.research.google.com/drive/1LAlULPUGJFEOf361B3MPTq3mqzxg7e24), due at **12:30pm, Feb/6/2024 (Tuesday)**.
-- **Scribed Lecture Notes**: *To be updated.*
 - **References**:
     - Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. Text as data. *Journal of Economic Literature*, 57(3): 535-574.
     - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870.
@@ -162,7 +158,6 @@ The following schedule is tentative and subject to changes.
 - **Presentation**: By Xinyu Xu and Shu Zhang.
     - Timoshenko, Artem, and John R. Hauser. 2019. Identifying customer needs from user-generated content. *Marketing Science*, 38(1): 1-20. [Link to the paper](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1123).
 - **Homework**: No homework this week. Probably you should think about your final project when enjoying your Lunar New Year Holiday.
-- **Scribed Lecture Notes**: *To be updated.*
 - **References**:
     - Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. Text as data. *Journal of Economic Literature*, 57(3): 535-574.
     - Tetlock, Paul. 2007. Giving content to investor sentiment: The role of media in the stock market. *Journal of Finance*, 62(3): 1139-1168.
@@ -182,7 +177,6 @@ The following schedule is tentative and subject to changes.
 - **Presentation**: By Qiyu Dai and Yifan Ren.
     - Huang, Allen H., Hui Wang, and Yi Yang. 2023. FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research*, 40(2): 806-841. [Link to the paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1911-3846.12832). [Link to GitHub Repo](https://github.com/yya518/FinBERT).
 - **Homework**: [Problem Set 4 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1shJ8uVv9OtJNQlu3SN8yt0PR7wXz1WCL#scrollTo=8X3Wh9B2GU4b)
-- **Scribed Lecture Notes**: *To be updated.*
 - **References**:
     - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688. [Associated GitHub with Code Demonstrations](https://github.com/sekhansen/text_algorithms_econ).
     - Li, Kai, Feng Mai, Rui Shen, and Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
@@ -203,7 +197,6 @@ The following schedule is tentative and subject to changes.
     - Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50. [Link to the paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4359).
 
 - **Homework**: [Problem Set 4 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1shJ8uVv9OtJNQlu3SN8yt0PR7wXz1WCL#scrollTo=8X3Wh9B2GU4b)
-- **Scribed Lecture Notes**: *To be updated.*
 - **References**:
     - Qi, Meng, Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen. 2023. A Practical End-to-End Inventory Management Model with Deep Learning. *Management Science*, 69(2): 759-773.
     - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
