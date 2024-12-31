@@ -1,5 +1,8 @@
 # Artificial Intelligence for Business Research (Spring 2024)
 
+[**Scribed Lecture Notes**](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf)
+
+
 ## Teaching Team
 
 * *Instructor*: <a href="https://rphilipzhang.github.io/rphilipzhang/index.html" target="_blank">Renyu (Philip) Zhang</a>, Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk, @911 Cheng Yu Tung Building.
